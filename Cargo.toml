@@ -2,6 +2,12 @@
 name = "raydium"
 version = "0.1.0"
 edition = "2024"
+authors = ["ohaddahan@gmail.com"]
+license = "MIT"
+description = "raydium client"
+keywords = ["raydium", "solana"]
+categories = ["cryptography"]
+repository = "https://github.com/solana-pools/raydium.git"
 
 [dependencies]
 borsh = { version = "1.5.7" }
